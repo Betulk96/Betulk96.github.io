@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Betül Kuyucu's CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #007BFF;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+
+        h1 {
+            color: #000;
+        }
+
+        h2 {
+            color: #007BFF;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        .contact-info {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Betül Kuyucu</h1>
+        <p>Email: 96betul@gmail.com | Phone: +90 541 828 80 62 | Github: <a href="https://github.com/Betulk96" target="_blank">Betulk96</a></p>
+    </header>
+
+    <section>
+        <h2>Education</h2>
+        <ul>
+            <li>2014-2020: Ege Üniversitesi - İktisat</li>
+            <li>2023: TechPro Education - Java Backend Developer</li>
+        </ul>
+
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>Programming Languages: Java, SQL</li>
+            <li>Web Technologies: Hibernate, Spring Framework (Spring Boot, Security), RESTful APIs</li>
+            <li>Databases: PostgreSQL, MongoDB</li>
+            <li>Tools and Others: Git, Maven, IntelliJ IDEA</li>
+        </ul>
+
+        <h2>Language</h2>
+        <ul>
+            <li>Turkish: Native Language</li>
+            <li>English: Intermediate</li>
+        </ul>
+
+        <h2>Staj</h2>
+        <p>Nazilli Ticaret Odası - October-December 2019</p>
+
+        <h2>Work Experience</h2>
+        <p>Assist Çağrı Merkezi - Ziraat Bankası Müşteri Hizmetleri - January 2021 - May 2022</p>
+        <p>Kamilkoç Çağrı Merkezi - August 6, 2022 - September 26, 2022</p>
+    </section>
+
+    <section class="contact-info">
+        <h2>Contact Information</h2>
+        <p>Email: 96betul@gmail.com | Phone: +90 541 828 80 62 | Github: <a href="https://github.com/Betulk96" target="_blank">Betulk96</a></p>
+    </section>
+</body>
+
+</html>
